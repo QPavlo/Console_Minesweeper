@@ -1,0 +1,2 @@
+./saper #- the number of mines and size of field are set later
+./saper --size <count> --mines <count> or ./saper --size=<count> --mines=<count> #- the number of mines and size of field are set immediately
